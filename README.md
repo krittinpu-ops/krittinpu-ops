@@ -3,7 +3,7 @@
 - 🔭 ปัจจุบันกำลังพัฒนาโปรเจกต์เกี่ยวกับ: **Web Development / Data Science**
 - 🌱 กำลังเรียนรู้เพิ่มเติมเรื่อง: **TypeScript, Docker, Cloud**
 - 💼 ตำแหน่งงาน / ความสนใจ: **Full-Stack Developer**
-- 📫 ช่องทางการติดต่อ: **your.email@example.com**
+- 📫 ช่องทางการติดต่อ: **krittin.pu@ku.th**
 
 ---
 
