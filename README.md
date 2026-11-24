@@ -339,19 +339,8 @@ Software Engineering, Workflow Automation
 
   <img width="70%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09271F,100:239B67&height=2" />
 
-  <br>
 
-  <h3>BUILD · CONNECT · EVOLVE</h3>
 
-  <p>
-    เรียนรู้จากการลงมือทำ<br>
-    พัฒนาตัวเองผ่านทุกความท้าทาย<br>
-    และสร้างสิ่งที่มีคุณค่าด้วยเทคโนโลยี
-  </p>
-
-  <sub>DESIGNED WITH PURPOSE · BUILT WITH PASSION</sub>
-
-  <br><br>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09271F,50:006633,100:239B67&height=100&section=footer" />
 
