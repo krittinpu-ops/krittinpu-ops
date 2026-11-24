@@ -61,9 +61,9 @@
 
 | โปรเจกต์ (Project) | รายละเอียด (Description) | เทคโนโลยีที่ใช้ (Tech Stack) | ลิงก์ (Repository) |
 | :--- | :--- | :--- | :--- |
-| **Project 1: Web Application** | *ใส่คำอธิบายสั้นๆ เกี่ยวกับโปรเจกต์เว็บแอปพลิเคชันของคุณ* | `React` `Node.js` `TypeScript` | [ดูโค้ด](https://github.com/krittinpu-ops) |
-| **Project 2: Data Analytics / AI** | *ใส่คำอธิบายสั้นๆ เกี่ยวกับโปรเจกต์วิเคราะห์ข้อมูลหรือ AI* | `Python` `Pandas` | [ดูโค้ด](https://github.com/krittinpu-ops) |
-| **Project 3: University / IT Project** | *ใส่คำอธิบายโปรเจกต์ในรายวิชาหรือโปรเจกต์ส่วนตัว* | `Docker` `Git` `JavaScript` | [ดูโค้ด](https://github.com/krittinpu-ops) |
+| **Project 1:  -  ** | *  -  -  -  -  -  * | `React` `Node.js` `TypeScript` | [ดูโค้ด](https://github.com/krittinpu-ops) |
+| **Project 2:  -  ** | *  -  -  -  -  -  * | `Python` `Pandas` | [ดูโค้ด](https://github.com/krittinpu-ops) |
+| **Project 3:  -  ** | *  -  -  -  -  -  * | `Docker` `Git` `JavaScript` | [ดูโค้ด](https://github.com/krittinpu-ops) |
 
 ---
 
