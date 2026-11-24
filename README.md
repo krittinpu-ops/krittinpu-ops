@@ -336,9 +336,6 @@ Software Engineering, Workflow Automation
 
   <img width="70%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09271F,100:239B67&height=2" />
 
-
-
-
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09271F,50:006633,100:239B67&height=100&section=footer" />
 
 </div>
