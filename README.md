@@ -1,14 +1,15 @@
-<!-- ================================================== -->
-<!--          KRITTIN | PERSONAL GITHUB PROFILE          -->
-<!-- ================================================== -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!--            KRITTIN — GITHUB PROFILE                 -->
+<!--                 KU FOREST EDITION                  -->
+<!-- ═══════════════════════════════════════════════════ -->
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071E17,50:006633,100:20A66B&height=230&section=header&text=KRITTIN&fontSize=72&fontColor=FFFFFF&fontAlignY=35&desc=INFORMATION%20TECHNOLOGY%20%7C%20KASETSART%20UNIVERSITY&descSize=17&descAlignY=56" alt="Krittin Profile Banner" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:09271F,50:006633,100:239B67&height=220&section=header&text=KRITTIN&fontSize=75&fontColor=FFFFFF&fontAlignY=43" alt="Header" />
 
   <h1>กฤตติณณ์ | Krittin</h1>
 
-  <h3>Software Development · Full-Stack · Automation</h3>
+  <b>Information Technology · Software Development · Automation</b>
 
   <p>
     นิสิตสาขาเทคโนโลยีสารสนเทศ<br>
@@ -17,108 +18,66 @@
   </p>
 
   <a href="https://github.com/krittinpu-ops?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-006633?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+    <img src="https://img.shields.io/badge/REPOSITORIES-006633?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:krittin.pu@ku.th">
-    <img src="https://img.shields.io/badge/CONTACT-238B57?style=for-the-badge&logo=gmail&logoColor=white" alt="Contact" />
+    <img src="https://img.shields.io/badge/CONTACT%20ME-238B57?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.ku.ac.th/">
-    <img src="https://img.shields.io/badge/KASETSART-KPS-006633?style=for-the-badge&labelColor=102B22" alt="Kasetsart University" />
+  <a href="https://github.com/krittinpu-ops?tab=followers">
+    <img src="https://img.shields.io/github/followers/krittinpu-ops?style=for-the-badge&logo=github&label=FOLLOWERS&color=238B57&labelColor=102B22" />
   </a>
 
   <br><br>
 
-  <img src="https://komarev.com/ghpvc/?username=krittinpu-ops&label=PROFILE%20VIEWS&color=006633&style=flat-square" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/krittinpu-ops?style=flat-square&logo=github&label=FOLLOWERS&color=238B57&labelColor=102B22" alt="Followers" />
-
-  <br><br>
-
-  <a href="#about">เกี่ยวกับผม</a>
-  &nbsp;·&nbsp;
-  <a href="#skills">ทักษะ</a>
-  &nbsp;·&nbsp;
-  <a href="#projects">ผลงาน</a>
-  &nbsp;·&nbsp;
-  <a href="#activity">กิจกรรม</a>
-  &nbsp;·&nbsp;
-  <a href="#contact">ติดต่อ</a>
+  <img src="https://komarev.com/ghpvc/?username=krittinpu-ops&label=PROFILE%20VIEWS&color=006633&style=flat-square" />
 
 </div>
 
 <br>
 
-<!-- ================================================== -->
-<!--                     ABOUT ME                       -->
-<!-- ================================================== -->
+<!-- ═══════════ ABOUT ME ═══════════ -->
 
-<a name="about"></a>
+## 01 — เกี่ยวกับผม
 
-## 01 / เกี่ยวกับผม
+<img align="right" width="140" src="https://github.com/krittinpu-ops.png" alt="Profile" />
 
-<img align="right" width="150" src="https://github.com/krittinpu-ops.png" alt="Krittin Profile Picture" />
+ผมเป็นนิสิตสาขาเทคโนโลยีสารสนเทศ มหาวิทยาลัยเกษตรศาสตร์ 
+มีความสนใจในการพัฒนาซอฟต์แวร์ การออกแบบระบบ 
+และการนำเทคโนโลยีมาประยุกต์ใช้เพื่อแก้ไขปัญหาในชีวิตจริง
 
-สวัสดีครับ ผมกฤตติณณ์ ปัจจุบันกำลังศึกษาอยู่ในสาขาเทคโนโลยีสารสนเทศ มหาวิทยาลัยเกษตรศาสตร์ วิทยาเขตกำแพงแสน
+ผมให้ความสำคัญกับการเรียนรู้ผ่านการลงมือสร้างโปรเจกต์ 
+ตั้งแต่การวางแผน ออกแบบ พัฒนา ทดสอบ 
+ไปจนถึงการปรับปรุงประสิทธิภาพของระบบ
 
-ผมสนใจการพัฒนาซอฟต์แวร์ การออกแบบระบบ และการนำเทคโนโลยีมาประยุกต์ใช้แก้ไขปัญหา โดยเฉพาะการพัฒนาเว็บแอปพลิเคชัน ระบบเบื้องหลัง และการเชื่อมต่อบริการต่าง ๆ เข้าด้วยกัน
-
-ปัจจุบันกำลังสะสมประสบการณ์ผ่านการลงมือพัฒนาโปรเจกต์จริง พร้อมศึกษาหลักการ Software Engineering และเทคโนโลยีใหม่ ๆ เพื่อพัฒนาทักษะของตนเองอย่างต่อเนื่อง
-
-<br clear="all">
-
-<table>
-  <tr>
-    <td width="30%"><b>การศึกษา</b></td>
-    <td>Information Technology — Kasetsart University</td>
-  </tr>
-  <tr>
-    <td><b>ความสนใจหลัก</b></td>
-    <td>Software Engineering, Full-Stack Development</td>
-  </tr>
-  <tr>
-    <td><b>กำลังศึกษาเพิ่มเติม</b></td>
-    <td>Go, Cloud Computing, AI และ Backend Architecture</td>
-  </tr>
-  <tr>
-    <td><b>เป้าหมายในสายอาชีพ</b></td>
-    <td>Software Engineer / Full-Stack Developer</td>
-  </tr>
-  <tr>
-    <td><b>สถานที่</b></td>
-    <td>Thailand</td>
-  </tr>
-</table>
+ปัจจุบันกำลังพัฒนาทักษะด้าน Full-Stack Development, 
+Software Engineering, Workflow Automation 
+และศึกษาเทคโนโลยีใหม่ ๆ อย่างต่อเนื่อง
 
 <br>
 
-<!-- ================================================== -->
-<!--                  AREAS OF INTEREST                 -->
-<!-- ================================================== -->
-
-### ขอบเขตความสนใจ
-
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <img width="42" src="https://skillicons.dev/icons?i=py&theme=dark" alt="Software Development" />
-      <h3>Software Engineering</h3>
-      <p>การออกแบบและพัฒนาซอฟต์แวร์ที่มีโครงสร้างชัดเจน สามารถทดสอบ ปรับปรุง และดูแลรักษาได้</p>
+    <td align="center" width="50%">
+      <img width="48" src="https://skillicons.dev/icons?i=java&theme=dark" alt="Software" />
+      <h3>Software Development</h3>
+      <p>การออกแบบและพัฒนาซอฟต์แวร์อย่างเป็นระบบ</p>
     </td>
-    <td width="50%" valign="top">
-      <img width="42" src="https://skillicons.dev/icons?i=react&theme=dark" alt="Full-Stack Development" />
+    <td align="center" width="50%">
+      <img width="48" src="https://skillicons.dev/icons?i=react&theme=dark" alt="Full Stack" />
       <h3>Full-Stack Development</h3>
-      <p>การพัฒนาเว็บแอปพลิเคชันตั้งแต่ส่วนติดต่อผู้ใช้ไปจนถึงระบบเบื้องหลังและ API</p>
+      <p>การพัฒนาเว็บและเชื่อมต่อระบบ Frontend กับ Backend</p>
     </td>
   </tr>
   <tr>
-    <td width="50%" valign="top">
-      <img width="42" src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Automation" />
-      <h3>Automation & Integration</h3>
-      <p>การสร้างระบบอัตโนมัติ เชื่อมต่อบริการ และลดขั้นตอนการทำงานที่ซ้ำซ้อน</p>
+    <td align="center">
+      <img width="48" src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Automation" />
+      <h3>Workflow Automation</h3>
+      <p>การเชื่อมต่อบริการและลดขั้นตอนการทำงานที่ซ้ำซ้อน</p>
     </td>
-    <td width="50%" valign="top">
-      <img width="42" src="https://skillicons.dev/icons?i=docker&theme=dark" alt="Cloud Computing" />
+    <td align="center">
+      <img width="48" src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Cloud" />
       <h3>Cloud & AI</h3>
-      <p>การศึกษาโครงสร้างพื้นฐานบน Cloud และการประยุกต์ใช้ปัญญาประดิษฐ์กับซอฟต์แวร์</p>
+      <p>การศึกษาเทคโนโลยีเพื่อประยุกต์ใช้กับระบบในอนาคต</p>
     </td>
   </tr>
 </table>
@@ -127,204 +86,118 @@
 
 ---
 
-<!-- ================================================== -->
-<!--                    TECH STACK                      -->
-<!-- ================================================== -->
+<!-- ═══════════ TECHNOLOGY STACK ═══════════ -->
 
-<a name="skills"></a>
-
-## 02 / เทคโนโลยีและเครื่องมือ
-
-ภาษาโปรแกรม Framework และเครื่องมือที่ใช้งานหรือกำลังพัฒนาทักษะผ่านการเรียนและโปรเจกต์ส่วนตัว
+## 02 — เทคโนโลยีและเครื่องมือ
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="33%">
-      <h3>Languages</h3>
-      <img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark&perline=3" alt="Programming Languages" />
-      <br><br>
-      <sub>Python · JavaScript · TypeScript</sub>
-      <br><br>
-    </td>
-    <td align="center" width="33%">
-      <h3>Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=html,css,react&theme=dark&perline=3" alt="Frontend" />
-      <br><br>
-      <sub>HTML · CSS · React</sub>
-      <br><br>
-    </td>
-    <td align="center" width="33%">
-      <h3>Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,py&theme=dark&perline=3" alt="Backend" />
-      <br><br>
-      <sub>Node.js · Python · API</sub>
-      <br><br>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <h3>Development</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark&perline=3" alt="Development Tools" />
-      <br><br>
-      <sub>Git · GitHub · VS Code</sub>
-      <br><br>
-    </td>
-    <td align="center">
-      <h3>DevOps & API</h3>
-      <img src="https://skillicons.dev/icons?i=docker,postman&theme=dark&perline=3" alt="DevOps" />
-      <br><br>
-      <sub>Docker · Postman · Webhooks</sub>
-      <br><br>
-    </td>
-    <td align="center">
-      <h3>Automation</h3>
-      <img width="48" src="https://cdn.simpleicons.org/n8n/EA4B71" alt="n8n" />
-      <br><br>
-      <sub>n8n · Workflow · Integration</sub>
-      <br><br>
-    </td>
-  </tr>
-</table>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <h3>Programming Languages</h3>
+        <img src="https://skillicons.dev/icons?i=py,js,ts&theme=dark" />
+        <br><br>
+        <sub>Python · JavaScript · TypeScript</sub>
+        <br><br>
+      </td>
+      <td width="50%" align="center">
+        <h3>Web Development</h3>
+        <img src="https://skillicons.dev/icons?i=html,css,react,nodejs&theme=dark" />
+        <br><br>
+        <sub>HTML · CSS · React · Node.js</sub>
+        <br><br>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <h3>Development Tools</h3>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
+        <br><br>
+        <sub>Git · GitHub · Visual Studio Code</sub>
+        <br><br>
+      </td>
+      <td align="center">
+        <h3>DevOps & API</h3>
+        <img src="https://skillicons.dev/icons?i=docker,postman&theme=dark" />
+        <br><br>
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+        <br><br>
+        <sub>Docker · Postman · n8n · Webhooks</sub>
+        <br><br>
+      </td>
+    </tr>
+  </table>
+
+  <h3>เทคโนโลยีที่กำลังศึกษาเพิ่มเติม</h3>
+
+  <img src="https://skillicons.dev/icons?i=go,gcp&theme=dark" />
+
+  <br><br>
+
+  <img src="https://img.shields.io/badge/Cloud%20Computing-102B22?style=for-the-badge&logo=googlecloud&logoColor=74D9C1" />
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-102B22?style=for-the-badge&logo=openai&logoColor=74D9C1" />
+  <img src="https://img.shields.io/badge/Data%20Analytics-102B22?style=for-the-badge&logo=pandas&logoColor=74D9C1" />
 
 </div>
-
-### เทคโนโลยีที่กำลังศึกษาเพิ่มเติม
-
-<table>
-  <tr>
-    <td align="center" width="25%">
-      <img width="48" src="https://skillicons.dev/icons?i=go&theme=dark" alt="Go" />
-      <br><br>
-      <b>Go</b>
-      <br>
-      <sub>Backend Development</sub>
-    </td>
-    <td align="center" width="25%">
-      <img width="48" src="https://skillicons.dev/icons?i=gcp&theme=dark" alt="Cloud Computing" />
-      <br><br>
-      <b>Cloud</b>
-      <br>
-      <sub>Cloud Infrastructure</sub>
-    </td>
-    <td align="center" width="25%">
-      <img width="48" src="https://skillicons.dev/icons?i=py&theme=dark" alt="Artificial Intelligence" />
-      <br><br>
-      <b>AI</b>
-      <br>
-      <sub>AI Integration</sub>
-    </td>
-    <td align="center" width="25%">
-      <img width="48" src="https://cdn.simpleicons.org/pandas/8E77DC" alt="Data Analytics" />
-      <br><br>
-      <b>Data Analytics</b>
-      <br>
-      <sub>Data Processing</sub>
-    </td>
-  </tr>
-</table>
 
 <br>
 
 ---
 
-<!-- ================================================== -->
-<!--                  FEATURED PROJECTS                 -->
-<!-- ================================================== -->
+<!-- ═══════════ FEATURED PROJECTS ═══════════ -->
 
-<a name="projects"></a>
+## 03 — ผลงานและโปรเจกต์
 
-## 03 / ผลงานและโปรเจกต์
-
-โปรเจกต์จากการเรียนและการพัฒนาส่วนตัวที่นำความรู้ด้านเทคโนโลยีมาประยุกต์ใช้ในการสร้างระบบจริง
-
-<br>
-
-### Smart Job Matcher
-
-<img src="https://img.shields.io/badge/TYPE-ACADEMIC%20PROJECT-006633?style=flat-square&labelColor=102B22" alt="Academic Project" />
-<img src="https://img.shields.io/badge/CATEGORY-AUTOMATION-238B57?style=flat-square&labelColor=102B22" alt="Automation" />
-
-ระบบจับคู่งานที่ประยุกต์ใช้ Workflow Automation เพื่อเชื่อมต่อข้อมูล ประมวลผลตามเงื่อนไข และลดขั้นตอนการทำงานที่ต้องดำเนินการด้วยตนเอง
-
-**แนวทางการทำงานของระบบ**
-
-```mermaid
-flowchart LR
-    A[Input] --> B[Webhook]
-    B --> C[Process Data]
-    C --> D[Conditional Logic]
-    D --> E[Job Matching]
-    E --> F[Notification]
-
-    classDef green fill:#103D29,stroke:#238B57,color:#FFFFFF
-    class A,B,C,D,E,F green
-```
-
-**องค์ประกอบที่ศึกษาและพัฒนา**
-
-- Workflow Automation
-- Webhook และ API Integration
-- การประมวลผลข้อมูลตามเงื่อนไข
-- การเชื่อมต่อบริการภายนอก
-- ระบบแจ้งเตือนอัตโนมัติ
-
-**เทคโนโลยีที่เกี่ยวข้อง**
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Webhooks-006633?style=flat-square" alt="Webhooks" />
-<img src="https://img.shields.io/badge/API-102B22?style=flat-square" alt="API" />
-
-<br>
-
-### Eat & Evolve
-
-<img src="https://img.shields.io/badge/TYPE-PERSONAL%20PROJECT-006633?style=flat-square&labelColor=102B22" alt="Personal Project" />
-<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-238B57?style=flat-square&labelColor=102B22" alt="In Development" />
-
-โปรเจกต์พัฒนาเกมบน Roblox ที่มุ่งเน้นการออกแบบระบบข้อมูลผู้เล่น การสะสมทรัพยากร การพัฒนาตัวละคร และระบบความก้าวหน้าภายในเกม
-
-**โครงสร้างระบบหลัก**
-
-```mermaid
-flowchart TD
-    A[Player] --> B[Food Collection]
-    B --> C[Inventory]
-    C --> D[Character Feeding]
-    D --> E[Experience System]
-    E --> F[Evolution System]
-
-    A --> G[Player Data]
-    G --> C
-    G --> E
-
-    classDef green fill:#103D29,stroke:#238B57,color:#FFFFFF
-    class A,B,C,D,E,F,G green
-```
-
-**องค์ประกอบที่ศึกษาและพัฒนา**
-
-- Player Data Management
-- Inventory & Resource Collection
-- Character Progression
-- Character Evolution
-- Multiplayer Architecture
-- Server-side Validation
-
-**เทคโนโลยีที่เกี่ยวข้อง**
-
-<img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white" alt="Roblox Studio" />
-<img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white" alt="Luau" />
-<img src="https://img.shields.io/badge/Game%20Architecture-006633?style=flat-square" alt="Game Architecture" />
-
-<br>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h2>Smart Job Matcher</h2>
+      <img src="https://img.shields.io/badge/ACADEMIC%20PROJECT-006633?style=flat-square" />
+      <br><br>
+      <p>
+        โปรเจกต์ระบบจับคู่งานที่ประยุกต์ใช้ Workflow Automation 
+        เพื่อเชื่อมโยงกระบวนการทำงานและบริการต่าง ๆ เข้าด้วยกัน
+      </p>
+      <h4>องค์ประกอบของระบบ</h4>
+      <ul>
+        <li>Workflow Automation</li>
+        <li>API Integration</li>
+        <li>Webhook Management</li>
+        <li>Conditional Processing</li>
+        <li>ระบบแจ้งเตือนอัตโนมัติ</li>
+      </ul>
+      <h4>เทคโนโลยี</h4>
+      <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
+    </td>
+    <td width="50%" valign="top">
+      <h2>Eat &amp; Evolve</h2>
+      <img src="https://img.shields.io/badge/IN%20DEVELOPMENT-257A58?style=flat-square" />
+      <br><br>
+      <p>
+        โปรเจกต์พัฒนาเกมบน Roblox ที่เน้นระบบสะสมทรัพยากร 
+        การพัฒนาตัวละคร และระบบความก้าวหน้าของผู้เล่น
+      </p>
+      <h4>องค์ประกอบของระบบ</h4>
+      <ul>
+        <li>Player Data Management</li>
+        <li>Inventory System</li>
+        <li>Character Progression</li>
+        <li>Evolution System</li>
+        <li>Multiplayer &amp; Server Validation</li>
+      </ul>
+      <h4>เทคโนโลยี</h4>
+      <img src="https://img.shields.io/badge/Roblox%20Studio-00A2FF?style=flat-square&logo=robloxstudio&logoColor=white" />
+      <img src="https://img.shields.io/badge/Luau-00A2FF?style=flat-square&logo=lua&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <div align="center">
 
   <a href="https://github.com/krittinpu-ops?tab=repositories">
-    <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-006633?style=for-the-badge&logo=github&logoColor=white" alt="View All Repositories" />
+    <img src="https://img.shields.io/badge/EXPLORE%20ALL%20REPOSITORIES-006633?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
 </div>
@@ -333,97 +206,34 @@ flowchart TD
 
 ---
 
-<!-- ================================================== -->
-<!--                 LEARNING ROADMAP                   -->
-<!-- ================================================== -->
+<!-- ═══════════ DEVELOPMENT ROADMAP ═══════════ -->
 
-## 04 / การพัฒนาทักษะและเป้าหมาย
+## 04 — เส้นทางการพัฒนาทักษะ
 
-<div align="center">
-
-```mermaid
-flowchart TD
-    A[Programming Fundamentals]
-    A --> B[Data Structures & Algorithms]
-    B --> C[Full-Stack Development]
-    C --> D[Backend & API Architecture]
-    D --> E[Cloud & DevOps]
-    D --> F[Automation & AI]
-    E --> G[Software Engineering]
-    F --> G
-
-    classDef base fill:#102B22,stroke:#238B57,color:#FFFFFF
-    classDef goal fill:#006633,stroke:#74D9A1,color:#FFFFFF
-
-    class A,B,C,D,E,F base
-    class G goal
-```
-
-</div>
-
-| ด้านที่พัฒนา | สิ่งที่ให้ความสำคัญ |
-| :--- | :--- |
-| **Programming** | การแก้ปัญหาและเขียนโค้ดอย่างเป็นระบบ |
-| **Data Structures & Algorithms** | การจัดการข้อมูลและประสิทธิภาพของโปรแกรม |
-| **Full-Stack Development** | การพัฒนาระบบ Frontend และ Backend |
-| **Backend Engineering** | การออกแบบ API และโครงสร้างระบบ |
-| **Automation** | การเชื่อมต่อและสร้างกระบวนการอัตโนมัติ |
-| **Cloud & DevOps** | การ Deploy และดูแลระบบ |
-| **Software Architecture** | การออกแบบซอฟต์แวร์ที่รองรับการขยายตัว |
+| ลำดับ | ด้านที่พัฒนา | เป้าหมาย |
+| :---: | :--- | :--- |
+| `01` | **Programming Fundamentals** | พื้นฐานการเขียนโปรแกรมและการแก้ไขปัญหา |
+| `02` | **Data Structures & Algorithms** | การจัดการข้อมูลและออกแบบอัลกอริทึม |
+| `03` | **Full-Stack Development** | การสร้างเว็บแอปพลิเคชันแบบครบวงจร |
+| `04` | **Backend & API Development** | การออกแบบระบบเบื้องหลังและ API |
+| `05` | **Workflow Automation** | การพัฒนาระบบทำงานอัตโนมัติ |
+| `06` | **Cloud & DevOps** | การ Deploy และดูแลระบบ |
+| `07` | **Software Architecture** | การออกแบบระบบที่มีประสิทธิภาพและรองรับการขยายตัว |
 
 <br>
 
-<details>
-  <summary><b>เป้าหมายระยะยาวในสายอาชีพ</b></summary>
-
-  <br>
-
-  มีเป้าหมายในการพัฒนาตนเองสู่สายงาน Software Engineering และ Full-Stack Development โดยให้ความสำคัญกับคุณภาพของซอฟต์แวร์ ความสามารถในการดูแลรักษาระบบ และการออกแบบระบบที่สามารถรองรับการเติบโตในอนาคต
-
-  - พัฒนาความเข้าใจด้าน Software Architecture
-  - ออกแบบระบบ Backend และ API
-  - ศึกษา Cloud Infrastructure และ DevOps
-  - พัฒนาประสบการณ์จากโปรเจกต์จริง
-  - เรียนรู้แนวทางการทำงานร่วมกันในทีมพัฒนาซอฟต์แวร์
-
-</details>
-
-<br>
-
----
-
-<!-- ================================================== -->
-<!--                  GITHUB ACTIVITY                   -->
-<!-- ================================================== -->
-
-<a name="activity"></a>
-
-## 05 / กิจกรรมบน GitHub
-
 <div align="center">
 
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krittinpu-ops&theme=github_dark" alt="GitHub Profile Details" />
+  <h3>เป้าหมายระยะยาว</h3>
 
-  <br>
+  <img src="https://img.shields.io/badge/Software%20Engineer-006633?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack%20Developer-238B57?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Architecture-102B22?style=for-the-badge" />
 
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krittinpu-ops&theme=github_dark" alt="GitHub Statistics" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=krittinpu-ops&theme=github_dark" alt="Most Used Languages" />
-
-  <br><br>
-
-  <h3>Contribution Streak</h3>
-
-  <img width="90%" src="https://streak-stats.demolab.com?user=krittinpu-ops&hide_border=true&background=0D1117&ring=238B57&fire=38C77D&currStreakLabel=38C77D&sideLabels=C9F4DB&dates=82A99A&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="Contribution Streak" />
-
-  <br><br>
-
-  <h3>Development Activity</h3>
-
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krittinpu-ops&bg_color=0D1117&color=C9F4DB&line=38C77D&point=E5FFE9&area=true&area_color=176B45&hide_border=true&hide_title=true" alt="GitHub Activity Graph" />
-
-  <br>
-
-  <sub>ข้อมูลกิจกรรมและสถิติจากบัญชี GitHub ซึ่งอัปเดตโดยบริการภายนอกอัตโนมัติ</sub>
+  <p>
+    พัฒนาซอฟต์แวร์ที่มีคุณภาพ ใช้งานได้จริง 
+    ดูแลรักษาได้ และรองรับการเติบโตในอนาคต
+  </p>
 
 </div>
 
@@ -431,30 +241,64 @@ flowchart TD
 
 ---
 
-<!-- ================================================== -->
-<!--                     EDUCATION                      -->
-<!-- ================================================== -->
+<!-- ═══════════ GITHUB ANALYTICS ═══════════ -->
 
-## 06 / ประวัติการศึกษา
+## 05 — กิจกรรมและสถิติบน GitHub
+
+<div align="center">
+
+  <h3>ภาพรวมกิจกรรม</h3>
+
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=krittinpu-ops&theme=github_dark" />
+
+  <br>
+
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=krittinpu-ops&theme=github_dark" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=krittinpu-ops&theme=github_dark" />
+
+  <br><br>
+
+  <h3>ความต่อเนื่องในการพัฒนา</h3>
+
+  <img width="85%" src="https://streak-stats.demolab.com?user=krittinpu-ops&hide_border=true&background=0D1F19&ring=38C77D&fire=38C77D&currStreakLabel=38C77D&sideLabels=C9F4DB&dates=82A99A&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+  <br><br>
+
+  <h3>Contribution Activity</h3>
+
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=krittinpu-ops&bg_color=0D1F19&color=C9F4DB&line=38C77D&point=E5FFE9&area=true&area_color=176B45&hide_border=true&custom_title=Development%20Activity" />
+
+  <br>
+
+  <sub>ข้อมูลสถิติอัปเดตอัตโนมัติตามกิจกรรมบน GitHub</sub>
+
+</div>
+
+<br>
+
+---
+
+<!-- ═══════════ EDUCATION ═══════════ -->
+
+## 06 — การศึกษา
 
 <table>
   <tr>
-    <td width="25%" align="center">
-      <h1>KU</h1>
-      <img src="https://img.shields.io/badge/CAMPUS-KPS-006633?style=flat-square&labelColor=102B22" alt="KU KPS" />
+    <td align="center" width="25%">
+      <img src="https://img.shields.io/badge/KU-KPS-006633?style=for-the-badge" />
       <br><br>
       <b>KASETSART<br>UNIVERSITY</b>
     </td>
     <td width="75%">
-      <h2>มหาวิทยาลัยเกษตรศาสตร์</h2>
+      <h3>มหาวิทยาลัยเกษตรศาสตร์</h3>
       <b>วิทยาเขตกำแพงแสน</b>
       <br><br>
       คณะศิลปศาสตร์และวิทยาศาสตร์
       <br>
       สาขาเทคโนโลยีสารสนเทศ
       <br><br>
-      <code>Undergraduate</code>
       <code>Information Technology</code>
+      <code>Undergraduate</code>
       <br><br>
       <a href="https://www.ku.ac.th/">เว็บไซต์มหาวิทยาลัย</a>
     </td>
@@ -465,47 +309,43 @@ flowchart TD
 
 ---
 
-<!-- ================================================== -->
-<!--                      CONTACT                       -->
-<!-- ================================================== -->
+<!-- ═══════════ CONTACT ═══════════ -->
 
-<a name="contact"></a>
-
-## 07 / ช่องทางการติดต่อ
+## 07 — ติดต่อและร่วมงาน
 
 <div align="center">
 
+  <h3>Let's Build Something Together</h3>
+
   <p>
-    ยินดีแลกเปลี่ยนความรู้และร่วมพัฒนาโปรเจกต์ด้านเทคโนโลยี<br>
-    รวมถึงโอกาสในการฝึกงานและพัฒนาประสบการณ์ด้านซอฟต์แวร์
+    ยินดีแลกเปลี่ยนความรู้และร่วมพัฒนาโปรเจกต์ใหม่ ๆ<br>
+    รวมถึงเปิดรับโอกาสในการเรียนรู้ ฝึกงาน<br>
+    และพัฒนาทักษะด้านเทคโนโลยีสารสนเทศ
   </p>
 
   <br>
 
   <a href="mailto:krittin.pu@ku.th">
-    <img src="https://img.shields.io/badge/EMAIL-krittin.pu%40ku.th-006633?style=for-the-badge&logo=gmail&logoColor=white&labelColor=102B22" alt="Email" />
+    <img src="https://img.shields.io/badge/EMAIL-krittin.pu%40ku.th-006633?style=for-the-badge&logo=gmail&logoColor=white&labelColor=102B22" />
   </a>
 
   <br><br>
 
   <a href="https://github.com/krittinpu-ops">
-    <img src="https://img.shields.io/badge/GITHUB-krittinpu--ops-238B57?style=for-the-badge&logo=github&logoColor=white&labelColor=102B22" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GITHUB-krittinpu--ops-006633?style=for-the-badge&logo=github&logoColor=white&labelColor=102B22" />
   </a>
 
   <br><br>
 
-  <sub>
-    Information Technology · Faculty of Liberal Arts and Science
-    <br>
-    Kasetsart University, Kamphaeng Saen Campus
-  </sub>
+  <img width="70%" src="https://capsule-render.vercel.app/api?type=rect&color=0:09271F,100:239B67&height=2" />
 
-  <br><br>
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:071E17,50:006633,100:20A66B&height=120&section=footer" alt="Footer" />
+
+
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:09271F,50:006633,100:239B67&height=100&section=footer" />
 
 </div>
 
-<!-- ================================================== -->
-<!--                    END OF PROFILE                  -->
-<!-- ================================================== -->
+<!-- ═══════════════════════════════════════════════════ -->
+<!--                     END OF PROFILE                 -->
+<!-- ═══════════════════════════════════════════════════ -->
