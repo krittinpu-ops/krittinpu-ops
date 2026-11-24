@@ -5,7 +5,7 @@
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:09271F,50:006633,100:239B67&height=220&section=header&text=KRITTIN&fontSize=75&fontColor=FFFFFF&fontAlignY=43&desc=BUILD%20%2F%20CONNECT%20%2F%20EVOLVE&descSize=18&descAlignY=72" alt="Header" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=soft&color=0:09271F,50:006633,100:239B67&height=220&section=header&text=KRITTIN&fontSize=75&fontColor=FFFFFF&fontAlignY=43" alt="Header" />
 
   <h1>กฤตติณณ์ | Krittin</h1>
 
